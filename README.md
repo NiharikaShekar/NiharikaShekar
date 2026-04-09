@@ -156,8 +156,6 @@
 >
 > 🌐 Built the application using **Flask**, **PostgreSQL**, and **SQLAlchemy**, consolidating manual processes into a user-friendly and accessible platform  
 >
-> 🔄 Enabled end-to-end handling of request intake, scoping, and visibility across engineering teams, contributing to a **25% increase in scoping request completion rate**
->
 > **🛠️ Tech Stack:** `Flask` `PostgreSQL` `SQLAlchemy` `Python` `HTML/CSS` `Git`
 
 </details>
