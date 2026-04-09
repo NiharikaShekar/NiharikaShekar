@@ -24,11 +24,11 @@
 
 <img align="right" alt="Coding" width="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🔬 **AI Engineering Intern** at Omi Health Inc, building cutting-edge multi-agent AI systems
+🤖 **AI/ML Engineer** with experience building production LLM, RAG, and backend systems
 
-🎓 **MS Computer Science** student at University of Illinois Chicago
+🎓 **MS in Computer Science** at the University of Illinois Chicago
 
-🧠 **Research Focus**: Machine Learning, AI, Computer Vision, and LLMs
+🧠 **Focus Areas**: AI/ML, LLM applications, Multi Agentic Systems, retrieval systems, computer vision, and deep learning
 
 📊 **Published Researcher** with IEEE conference paper
 
@@ -89,7 +89,7 @@
 </div>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Omi%20Health-AI%20Engineering-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
+<summary><img src="https://img.shields.io/badge/Omi%20Health-AI/ML%20Engineer-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
 
 > **📅 June 2025 - Dec 2025 | 📍 New York**
 >
