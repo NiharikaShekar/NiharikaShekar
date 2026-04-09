@@ -89,41 +89,11 @@
 </div>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Omi%20Health%20Inc-AI%20Engineer-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
-
-> **📅 June 2025 - September 2025 | 📍 New York**
-> 
-> 🤖 Building multi-agent AI systems integrating **LLMs** with **RAG**
-> 
-> 🧠 Working with **knowledge graphs** and **rational reasoning frameworks**
-> 
-> 🏥 Specialized focus on **healthcare domain** applications
-> 
-> **🛠️ Tech Stack:** `AI` `Python` `FastAPI` `Supabase` `LangGraph` `RAG` `ML` `LLMs`
-
-</details>
-
-<details open>
-<summary><img src="https://img.shields.io/badge/Omi%20Health%20Inc-AI%20Engineering%20Intern-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
-
-> **📅 June 2025 - Present | 📍 Massachusetts**
-> 
-> 🤖 Building multi-agent AI systems integrating **LLMs** with **RAG**
-> 
-> 🧠 Working with **knowledge graphs** and **rational reasoning frameworks**
-> 
-> 🏥 Specialized focus on **healthcare domain** applications
-> 
-> **🛠️ Tech Stack:** `AI` `Python` `FastAPI` `Supabase` `LangGraph` `RAG` `ML` `LLMs`
-
-</details>
-
-<details open>
 <summary><img src="https://img.shields.io/badge/Omi%20Health-AI%20Engineering-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
 
 > **📅 June 2025 - Dec 2025 | 📍 New York**
 >
-> **AI/ML Engineer Co-op**  
+> **AI/ML Engineer**  
 > *Sep 2025 - Dec 2025 · 4 mos · Part-time*
 >
 > 🤖 Extended the RAG-powered LLM platform by tuning **Neo4j knowledge graphs**, **hybrid retrieval**, and **vector search** pipelines with contextual compression, improving retrieval relevance by **32%** and reducing response latency **4x** (**30s → 7-8s**) for medical reasoning workflows  
