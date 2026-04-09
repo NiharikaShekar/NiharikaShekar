@@ -89,6 +89,21 @@
 </div>
 
 <details open>
+<summary><img src="https://img.shields.io/badge/Omi%20Health%20Inc-AI%20Engineer-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
+
+> **📅 June 2025 - September 2025 | 📍 New York**
+> 
+> 🤖 Building multi-agent AI systems integrating **LLMs** with **RAG**
+> 
+> 🧠 Working with **knowledge graphs** and **rational reasoning frameworks**
+> 
+> 🏥 Specialized focus on **healthcare domain** applications
+> 
+> **🛠️ Tech Stack:** `AI` `Python` `FastAPI` `Supabase` `LangGraph` `RAG` `ML` `LLMs`
+
+</details>
+
+<details open>
 <summary><img src="https://img.shields.io/badge/Omi%20Health%20Inc-AI%20Engineering%20Intern-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
 
 > **📅 June 2025 - Present | 📍 Massachusetts**
@@ -104,50 +119,76 @@
 </details>
 
 <details open>
+<summary><img src="https://img.shields.io/badge/Omi%20Health-AI%20Engineering-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"></summary>
+
+> **📅 June 2025 - Dec 2025 | 📍 New York**
+>
+> **AI/ML Engineer Co-op**  
+> *Sep 2025 - Dec 2025 · 4 mos · Part-time*
+>
+> 🤖 Extended the RAG-powered LLM platform by tuning **Neo4j knowledge graphs**, **hybrid retrieval**, and **vector search** pipelines with contextual compression, improving retrieval relevance by **32%** and reducing response latency **4x** (**30s → 7-8s**) for medical reasoning workflows  
+>
+> 🧠 Added AI-driven product features for pet health recommendations and strengthened conversational AI quality through **multi-agent judge and guardrail frameworks**, contributing to a **40% increase in chat engagement**  
+>
+> 🚀 Containerized and deployed services with **Docker** on **AWS EC2**, configured **Nginx** and **Certbot** for production, and implemented **APNS** notification pipelines with **GitHub Actions CI/CD**, reducing deploy time by **46%** and infrastructure costs by **15%**
+>
+> **AI Engineer**  
+> *Jun 2025 - Aug 2025 · 3 mos*
+>
+> 🏗️ Architected the system design and database schemas for an AI-powered health app, building an end-to-end AI platform with **LLM-driven RAG**, **Neo4j knowledge graphs**, and **WebSocket-based conversational AI** to support **100+ users**  
+>
+> ⚙️ Developed **35+ REST endpoints** and backend microservices using **FastAPI** and **Supabase (Postgres)**, including **JWT authentication**, subscription management through **Stripe APIs/webhooks**, and scalable service integration patterns  
+>
+> 📄 Built PDF data extraction and document intelligence pipelines with model-based classification, and developed custom judge/guardrail frameworks plus dynamic plan generation logic for safe, explainable AI-driven workflows
+>
+> **🛠️ Tech Stack:** `Python` `FastAPI` `Supabase` `PostgreSQL` `Neo4j` `RAG` `OpenAI` `WebSockets` `Docker` `AWS` `GitHub Actions`
+
+</details>
+
+<details open>
 <summary><img src="https://img.shields.io/badge/UI%20Health-Graduate%20Research%20Assistant-28A745?style=for-the-badge&logo=medical-cross&logoColor=white"></summary>
 
 > **📅 December 2024 - Present | 📍 Chicago, Illinois**
-> 
-> 🔬 Research under **Dr. Farid Amirouche** at Orthopaedic Biomechanics Lab
-> 
-> 🦴 Developed **2D wrist arc tear detection** using a modified **YOLOv8** architecture
-> 
-> 🧠 Created a 3D spine fracture detection pipeline using **nnU-Net** with 3D segmentation masks on **CT/MRI scans**
-> 
-> 🦿 Designed a novel training strategy for **meniscus tear detection**, leveraging **2D ResNet slice-wise models**, **3D CNNs**, and **XGBoost fusion**, trained on `.npy` volumes
-> 
-> 🔬 Currently working on **osteoarthritis detection** using multi-modal 3D segmentation of joint structures in **MRI/CT scans**
-> 
-> **🛠️ Tech Stack:** `YOLOv8` `nnU-Net` `3D U-Net` `ResNet` `XGBoost` `Python` `PyTorch` `MONAI` `NVIDIA GPUs`
+>
+> 🔬 Graduate Research Assistant in AI/ML at **UI Health / UIC Orthopaedic Research Lab**  
+>
+> 🦴 Built **3D deep learning pipelines** for meniscus tear detection, achieving **97.4% classification accuracy** on volumetric imaging data  
+>
+> 🧠 Developed an end-to-end **3D segmentation pipeline** using **nnU-Net v2**, including data preprocessing, model training, and optimized inference for real-time spine fracture detection, achieving a **96.9% Dice score**  
+>
+> 🦿 Designed a **hybrid CNN-GNN architecture** with **Grad-CAM explainability** for knee osteoarthritis classification, achieving **0.94 AUROC**
+>
+> **🛠️ Tech Stack:** `Python` `PyTorch` `MONAI` `nnU-Net v2` `CNNs` `GNNs` `XGBoost` `Grad-CAM` `Medical Imaging`
 
 </details>
 
 <details open>
 <summary><img src="https://img.shields.io/badge/Adobe%20Inc-Software%20Engineer-FF0000?style=for-the-badge&logo=adobe&logoColor=white"></summary>
 
-> **📅 August 2023 – August 2024 | 📍 Bangalore, India**
-> 
-> 🏗️ Built custom **AEM components** and delivered solutions to major clients
-> 
-> 🚀 Worked with **T-Mobile**, **JLR**, and **Amazon** on AEM applications
-> 
-> ⚡ Optimized **CDN/server requests** and resolved Adobe Workfront issues
-> 
-> **🛠️ Tech Stack:** `Adobe AEM` `Adobe Campaign` `Adobe Workfront` `CI/CD Pipelines` `C++` `Python`
+> **📅 August 2023 - August 2024 | 📍 Bengaluru, India**
+>
+> 🏗️ Worked with **6+ enterprise clients** to enable faster campaign launches and cross-channel personalization using **Adobe Experience Manager (AEM)** and **Adobe Campaign**  
+>
+> 🚀 Optimized **Adobe Workfront** workflows and **super-graph queries**, and ran functional and performance testing, reducing latency by **26%**  
+>
+> ⚡ Tuned **CDN** and delivery layers to improve caching efficiency, achieving a **16% increase in cache hit ratio** and **41% higher deployment performance**
+>
+> **🛠️ Tech Stack:** `Adobe Experience Manager (AEM)` `Adobe Campaign` `Adobe Workfront` `Java` `OSGi` `Sling Models` `CDN` `Performance Testing`
 
 </details>
-<details open>
-<summary><img src="https://img.shields.io/badge/Adobe%20Inc-Technical%20Consultant%20Intern-FF0000?style=for-the-badge&logo=adobe&logoColor=white"></summary>
 
-> **📅 May 2022 – August 2022 | 📍 Bangalore, India**
-> 
-> 🛠️ Developed **ScoPortal**, a ticketing-based automation portal to streamline scoping workflows at Adobe  
-> 
-> 🌐 Built the web application using **Flask**, **PostgreSQL**, and **SQLAlchemy**, consolidating manual processes into a user-friendly portal
-> 
-> 🔄 Enabled end-to-end handling of request intake, scoping, and visibility across engineering teams
-> 
-> **🛠️ Tech Stack:** `Flask` `PostgreSQL` `SQLAlchemy` `HTML/CSS` `Git`
+<details open>
+<summary><img src="https://img.shields.io/badge/Adobe%20Inc-Software%20Engineer%20Intern-FF0000?style=for-the-badge&logo=adobe&logoColor=white"></summary>
+
+> **📅 May 2022 - August 2022 | 📍 Bengaluru, India**
+>
+> 🛠️ Developed **ScoPortal**, a ticketing-based automation portal to streamline scoping workflows  
+>
+> 🌐 Built the application using **Flask**, **PostgreSQL**, and **SQLAlchemy**, consolidating manual processes into a user-friendly and accessible platform  
+>
+> 🔄 Enabled end-to-end handling of request intake, scoping, and visibility across engineering teams, contributing to a **25% increase in scoping request completion rate**
+>
+> **🛠️ Tech Stack:** `Flask` `PostgreSQL` `SQLAlchemy` `Python` `HTML/CSS` `Git`
 
 </details>
 
